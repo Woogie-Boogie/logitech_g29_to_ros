@@ -8,6 +8,7 @@ I am writing this assuming that Logitech steering and pedals are USB connected t
 #1. Installing
 
 ##1-1) Identifying
+
 '''
 $ lsusb
 '''
